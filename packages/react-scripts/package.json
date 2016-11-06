@@ -69,8 +69,11 @@
   },
   "devDependencies": {
     "bundle-deps": "1.0.0",
+    "node-sass": "^3.11.2",
     "react": "^15.3.0",
-    "react-dom": "^15.3.0"
+    "react-dom": "^15.3.0",
+    "sass-loader": "^4.0.2",
+    "webpack": "^1.13.3"
   },
   "optionalDependencies": {
     "fsevents": "1.0.14"
